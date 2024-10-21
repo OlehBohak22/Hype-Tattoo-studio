@@ -1,1 +1,1 @@
-Hyper Tattoo SCHOOL
+Hyper Tattoo STUDIO
