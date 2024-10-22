@@ -6,7 +6,6 @@ import SortCss from 'postcss-sort-media-queries';
 
 export default defineConfig(({ command }) => {
   return {
-    base: '/Hype-Tattoo/', // Додайте це, щоб забезпечити правильні шляхи для GitHub Pages
     define: {
       [command === 'serve' ? 'global' : '_global']: {},
     },
